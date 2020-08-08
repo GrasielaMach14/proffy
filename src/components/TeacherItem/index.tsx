@@ -7,7 +7,7 @@ function TeacherItem() {
     return (
         <article className="teacher-item">
             <header>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr81BvRBGEtXBLXxmBop43GKMSclgPu74Haw&usqp=CAU" alt=""/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRyvohE0InMDuH4RfMR6lpTv7Co7reGJXQ8VA&usqp=CAU" alt=""/>
                 <div>
                     <strong>Diego F. Galisteu</strong>
                     <span>Química</span>  <br/><br/>

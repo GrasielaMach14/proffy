@@ -3,3 +3,7 @@ Para visualizar contedo da aula React NLW:
 https://nextlevelweek.com/episodios/omnistack/edicao/2
 
 https://nextlevelweek.com/episodios/omnistack/2/edicao/2
+
+É necessário rodar o comando:
+
+yarn add axios -te ajuda a fazer requisições externas usando API's
